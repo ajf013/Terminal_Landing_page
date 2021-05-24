@@ -4,3 +4,4 @@ Simple terminal-style website that uses the [WinBox](https://github.com/nextapps
 
 [Demo](https://upbeat-allen-ed0aef.netlify.app/)
 
+![Terminal Style Landing Page](https://i.ibb.co/896pFs7/Screenshot-26.png)
