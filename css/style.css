@@ -95,10 +95,3 @@ nav ul li {
     color: var(--text-color);
   }
 }
-@media only screen and (max-width: 600px) {
-  div.container {
-    font-size: 50px;
-    padding: 50px;
-    width: auto;
-  }
-}
